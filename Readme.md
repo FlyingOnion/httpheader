@@ -3,6 +3,9 @@ httpheader is a Go library for parsing `http.Header` to a struct.
 
 ## install
 `go get -u github.com/FlyingOnion/httpheader`
+
+or
+
 `go mod download github.com/FlyingOnion/httpheader`
 
 ## usage
@@ -33,3 +36,7 @@ This is a quick developing version.
 I will add them in the future (maybe not until I need them).
 
 ## LICENSE
+
+[Anti-996 LICENSE](https://github.com/FlyingOnion/httpheader/blob/master/LICENSE)
+
+surprised?
