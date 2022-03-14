@@ -1,4 +1,7 @@
 # httpheader
+
+**This repo is no longer maintained. A newer version is active at Gitee (https://gitee.com/FlyingOnion/httpheader)**
+
 httpheader is a Go library for parsing `http.Header` to a struct.
 
 ## install
